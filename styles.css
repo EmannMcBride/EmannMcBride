@@ -7,3 +7,11 @@ h1 {
     text-align: center;
     color: blanchedalmond;
 }
+.project img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid rgb(4, 206, 196); /* choose a color */
+    display: block;
+    margin: auto;
+    }
